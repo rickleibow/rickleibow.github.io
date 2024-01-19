@@ -63,10 +63,10 @@ projectFourDescription.textContent = 'A hotel reservation app displays all the e
 const projectFourSeeLiveSource = document.createElement('div');
 projectFourSeeLiveSource.className = 'projectSee';
 projectFourSeeLiveSource.innerHTML = `
-  <button class="see-live" type="button" onclick="window.open('https://reservify.netlify.app/'); return false;">
+  <button class="see-live" type="button" onclick="window.open('https://cosmos-travelers-hub.netlify.app/profile'); return false;">
     <p>See live</p><img src="images/ic_link.svg" alt="download-icon">
   </button>
-  <button class="see-source" type="button" onclick="window.open('https://github.com/rickleibow/reservify-front-end'); return false;">
+  <button class="see-source" type="button" onclick="window.open('https://github.com/rickleibow/space-travelers-hub'); return false;">
     <p>See source</p><img src="images/ic_github_white.svg" alt="github">
   </button>
 `;

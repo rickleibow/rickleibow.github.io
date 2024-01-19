@@ -168,7 +168,7 @@ main {
   grid-row: 10/12;
   grid-column: 6/9;
   overflow: hidden;
-  background-image: url(../images/projects/reservify-thumbnail.png);
+  background-image: url(../images/projects/space-thumbnail.png);
   background-repeat: no-repeat;
   background-size: cover;
 }

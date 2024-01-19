@@ -44,15 +44,15 @@ projectTwoSeeLiveSource.innerHTML = `
 `;
 
 const projectThreeDescription = document.createElement('p');
-projectThreeDescription.textContent = 'Web application that showcases Yu-Gi-Oh! cards. You can like and comment cards.';
+projectThreeDescription.textContent = 'Mobile application that is the world\'s premiere platform for learning about cryptocurrencies and blockchain technology';
 
 const projectThreeSeeLiveSource = document.createElement('div');
 projectThreeSeeLiveSource.className = 'projectSee';
 projectThreeSeeLiveSource.innerHTML = `
-  <button class="see-live" type="button" onclick="window.open('https://yothu.github.io/Yu-Gi-Oh--Card-Data-Base/dist/index.html'); return false;">
+  <button class="see-live" type="button" onclick="window.open('https://appadvice.com/app/cryptopedia-learn-crypto/1434588519'); return false;">
     <p>See live</p><img src="images/ic_link.svg" alt="download-icon">
   </button>
-  <button class="see-source" type="button" onclick="window.open('https://github.com/rickleibow/Yu-Gi-Oh--Card-Data-Base'); return false;">
+  <button class="see-source" type="button" onclick="window.open('https://github.com/rickleibow/CryptopediaRN'); return false;">
     <p>See source</p><img src="images/ic_github_white.svg" alt="github">
   </button>
 `;
